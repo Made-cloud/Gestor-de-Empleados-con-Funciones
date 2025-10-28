@@ -14,3 +14,12 @@ def calcular_bono(salario, desempeño):
     return bono
 
 print(f"El bono es: ${calcular_bono(salario, desempeno)}")
+
+
+
+
+def menu():
+    return
+
+def mostrar_mensaje_despedida():
+    return print("Su solicitud ha sido axitosa")
